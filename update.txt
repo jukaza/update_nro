@@ -1,1 +1,1 @@
-1.0.1|https://github.com/jukaza/update_nro/raw/refs/heads/main/output.zip
+1.0.1|http://160.250.181.108/output.zip
